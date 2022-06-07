@@ -1,0 +1,5 @@
+in\reqres\userinfo\GetSingleUser.class
+in\reqres\testbase\TestBase.class
+in\reqres\userinfo\GetAllUser.class
+in\reqres\userinfo\UserTestCURD.class
+in\reqres\userinfo\UserLogin.class
